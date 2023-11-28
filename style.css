@@ -1,0 +1,23 @@
+body {
+    background-color: #1c1a26;
+}
+
+.title {
+    color: #f2ae30;
+}
+
+.main {
+    color: #b9bcaa;
+}
+
+.table {
+    color: white;
+    background-color: #54687d;
+    border-collapse: collapse;
+}
+
+td {
+    width: 25%;
+    border: 2px solid black;
+}
+
